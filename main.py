@@ -48,7 +48,7 @@ def busqueda_ancho(frontera):
     frontera.extend(offspring)
   return busqueda_ancho(frontera)
 
-def mejor_busqueda_ancho(frontera):
+#def mejor_busqueda_ancho(frontera):
 
 ###################################################
 ### Búsqueda profundo y búsqueda de profundidad limitada e iterada
